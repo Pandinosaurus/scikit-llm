@@ -161,3 +161,10 @@ cython_debug/
 test.py
 tmp.ipynb
 tmp.py
+*.pickle
+*.ipynb
+
+# vscode
+.vscode/
+tmp2.py
+tmp.*
